@@ -1,0 +1,22 @@
+{
+  "name": "cube",
+  "version": "1.0.0",
+  "description": "Creates a cube with Three.js",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldoan7/cube.git"
+  },
+  "author": "Lauren Doan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldoan7/cube/issues"
+  },
+  "homepage": "https://github.com/ldoan7/cube#readme",
+  "dependencies": {
+    "three": "^0.155.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
